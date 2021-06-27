@@ -1,0 +1,101 @@
+.techfont{
+    font-family:  'Share Tech', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.centerstage{
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.brandtechpost{
+    color: black;
+    font-weight: 600;
+    font-size: 1.2;
+}
+
+.django-logo{  
+    padding: 25px;
+    max-width:60%;
+    height:auto;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+ul.nav a:hover { color: greenyellow !important; }
+
+.containerAbout{
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 25px;
+    padding-bottom: 35px;
+    font-size: 1.3em;
+
+}
+
+h1{
+    text-align: center;
+}
+.about{
+    padding-top: 20px;
+    color: black;
+    text-align: justify;
+}
+.based{
+    padding-left: 40px;
+}
+
+.navbar-custom {
+    background-color: #00A878;
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+ .navbar-text {
+    color: white;
+}
+
+a{
+    border:none;
+    outline:none;
+    text-decoration:none;
+    color:inherit;
+}
+a,a:hover,a:click, a:visited{
+    border:none;
+    outline:none;
+    text-decoration:none;
+    color:inherit;
+  }
+
+.bigbrand{
+    font-size: 1.5em;
+}
+
+.postdate{
+    text-align: center;
+}
+
+.posttitle{
+    font-family:  'Share Tech', sans-serif;
+    font-size: 3em;
+    text-align: center;
+}
+
+.postcontent{
+    font-family: 'Montserrat';
+    font-size: 1.5em;
+}
+
+.btn-comment{
+    position: absolute;
+    right: 0px;
+}
